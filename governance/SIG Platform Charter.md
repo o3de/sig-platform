@@ -8,7 +8,7 @@ This charter adheres to the Roles and Organization Management specified in <sig-
 Set the bar for maintenance and dev on crfoss platform features.
 Two concise lines explaining what this SIG does with bullet points of the major responsibilities
 
-- Responsibility 1
+- Responsibility
 
 **Goals**
 
