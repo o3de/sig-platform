@@ -1,12 +1,11 @@
 # RFC - Linux Asset Platform
 
-*   [Summary](#id-summary)
-*   [Business Need](#id-businessneed)
-*   [Feature Breakdown](#id-[REVIEWED]RFC-LinuxAssetPlatform-FeatureBreakdown)
-*   [Dependencies](#id-[REVIEWED]RFC-LinuxAssetPlatform-Dependencies)
-*   [Scope](#id-[REVIEWED]RFC-LinuxAssetPlatform-Scope)
-*   [Timeline](#id-[REVIEWED]RFC-LinuxAssetPlatform-Timeline)
-*   [Questions and Concerns](#id-[REVIEWED]RFC-LinuxAssetPlatform-QuestionsandConcerns)
+  - [Summary](#summary)
+  - [Business Need](#business-need)
+  - [Feature Breakdown](#feature-breakdown)
+  - [Dependencies](#dependencies)
+  - [Scope](#scope)
+  - [Timeline](#timeline)
 
 ## Summary
 
@@ -18,27 +17,27 @@ Adding the distinct 'Linux' asset type for Linux will make the assets unambiguou
 
 ## Feature Breakdown
 
-*   **'Linux' as a target asset type**  
+- **'Linux' as a target asset type**  
     Create a distinct 'Linux' asset platform (along side the existing asset platforms) that is processed through the Asset Processor, and handled through the runtime clients.  
       
     
 
 ## Dependencies
 
-*   **Atom**  
+- **Atom**  
     Issues that are uncovered with the Atom shader compiler on Linux may need some level of support to work through. The shader assets will use shaders compiled for Vulkan on the Linux platform.  
       
     
-*   **O3DE Community**  
+- **O3DE Community**  
     Issues that are uncovered will be posted in Github Issues so that we can leverage the communities expertise and resource to fix them.  
       
     
 
 ## Scope
 
-*   This project is limited to just support of a new asset platform for Linux in order to keep it distinct from any other platform (PC). There will be no other enhancements to any asset processing related to this.
-*   Originally the 'PC' asset platform was shared by Windows and Linux. 'PC' can be renamed to 'Windows' to match the naming pattern to the host platform, but that is out of scope of this RFC.
-*   The implementation will be based on Ubuntu 20.04 LTS. Any variance that is needed for other distributions is out of scope for this project.
+- This project is limited to just support of a new asset platform for Linux in order to keep it distinct from any other platform (PC). There will be no other enhancements to any asset processing related to this.
+- Originally the 'PC' asset platform was shared by Windows and Linux. 'PC' can be renamed to 'Windows' to match the naming pattern to the host platform, but that is out of scope of this RFC.
+- The implementation will be based on Ubuntu 20.04 LTS. Any variance that is needed for other distributions is out of scope for this project.
 
 ## Timeline
 
