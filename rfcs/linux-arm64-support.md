@@ -9,13 +9,13 @@ O3DE only supports the Intel x86 based CPU architecture for its host platforms (
 
 ## Feature design description
 
-O3DE can only be built on a host platform (Windows, Linux, or Mac), and will default the target build to the current host platform that it is on. Some platforms, such as Android and iOS, can be cross-compiled through specification of the target platform’s specific tool chain or custom generator. Introducing an architecture flavor of a host platform will introduce a new use case where a host platform can be a target platform on another host platform through cross compiling.  However we will limit the feature to allow cross compiling ARM64 on an x64 machine, and not the other way around (unless there is a practical scenario to justify it). 
+O3DE can only be built on a host platform (Windows, Linux, or Mac), and will default the target build to the current host platform that it is on. Some platforms, such as Android and iOS, can be cross-compiled through specification of the target platform’s specific tool chain or custom generator. Introducing an architecture flavor of a host platform will introduce a new use case where a host platform on one cpu architecture can be a target platform on another host platform with a different cpu architecture through cross compiling.  However we will limit the feature to allow cross compiling ARM64 on an x64 machine, and not the other way around (unless there is a practical scenario to justify it). 
 
 There are two use cases that will support building for Linux / ARM64
 
-* **Compiling O3DE for Linux/ARM64 on a Linux/ARM64 host.<br>**
+* **Compiling O3DE for Linux/ARM64 on a Linux/ARM64 host.**<br>
   When building on an Linux/ARM64 host, the default Linux/clang toolchain will already locate the native ARM64 tools.
-* **Cross Compiling O3DE for Linux/ARM64 on a Linux x86_64 host<br>**
+* **Cross Compiling O3DE for Linux/ARM64 on a Linux x86_64 host**<br>
   To cross compile for ARM64 on a Linux x86_64 host, a custom toolchain will be specified that is designed to look for arm64 tools that run on x86 machines.
 
 ## Technical design description
@@ -74,7 +74,7 @@ The first use cases that come to mind are ones that require O3DE to run on serve
 **A**: Of the current 3rd Party packages that is used by Linux so far, only *squish-ccr* and *ISPCTexComp* have issues being built in ARM64.<br>
 
 **Q**: What are the core/most needed 3rdParty libs that O3DE needs to run? <br>
-**A**: That will depend on the type target that is being builr (GameLauncher, ServerLauncher, Editor, etc) <br>
+**A**: That will depend on the type target that is being built (GameLauncher, ServerLauncher, Editor, etc) <br>
 
 **Q**: Will developers be able to produce ARM-based 3rdParty packages if they don't have a arm-based linux machine? <br>
 **A**: It is possible to cross compile for ARM64 on an x86 host, but the procedure to do that will vary depending on the package. Another alternative is to run an ARM64 based Docker image on an x86 device through any support virtualization software such as QEMU<br>
