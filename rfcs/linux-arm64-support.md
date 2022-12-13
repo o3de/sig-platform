@@ -76,6 +76,10 @@ The first use cases that come to mind are ones that require O3DE to run on serve
 **Q**: What are the core/most needed 3rdParty libs that O3DE needs to run? <br>
 **A**: That will depend on the type target that is being built (GameLauncher, ServerLauncher, Editor, etc) <br>
 
+**Q**: What if we find a 3rd Party library dependency that does not support ARM64? <br>
+**A**: Depending on the library and its scope within the project, a mitigation strategy would be to gate the inclusion of that feature through a PAL trait. The disabled feature itself can be disable, ignored (with a warning), or trigger an error, but that depends on the nature of the feature. <br>
+
+
 **Q**: Will developers be able to produce ARM-based 3rdParty packages if they don't have a arm-based linux machine? <br>
 **A**: It is possible to cross compile for ARM64 on an x86 host, but the procedure to do that will vary depending on the package. Another alternative is to run an ARM64 based Docker image on an x86 device through any support virtualization software such as QEMU<br>
 
