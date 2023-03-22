@@ -33,7 +33,7 @@ One individual should be able to setup an environment and conduct basic deployme
 - Documentation is available for building cross-platform or natively on ARM64
 - ARM64 build is free of errors for both DLY_UNITY_BUILD ON and OFF
 - ARM64 builds on platform and/or cross-platform
-- Unit tests pass consistently
+- Unit tests related to non-render context server and game systems pass consistently
 
 ### **4.0 Risks:**
 
@@ -68,6 +68,9 @@ Risks are scored using a risk assessment matrix of impact and likelihood https:/
 ### **6.0 Out of Scope:**
 
 - Client connection is optional without GameLift (configuring vm's for connection increases the scope of testing)
+- Unit tests for Editor
+- Editor
+- Editor Python Bindings (EPB) tests
 
 ### **7.0 Test Approach:**
 
