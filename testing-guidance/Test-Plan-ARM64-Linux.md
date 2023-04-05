@@ -16,7 +16,7 @@ This document covers high level risk mitigation plans for confirming functional 
 ### **2.0 Defect Tracking Issues:**
 
 Bugs will be tracked with Github Issues (GHI) primarily entered in [https://github.com/o3de/o3de](https://github.com/o3de/o3de).
-Labels will include [`kind/bug`](https://github.com/o3de/o3de/labels/kind%2Fbug), [`feature/networking`](https://github.com/o3de/o3de/labels/feature%2Fnetworking), [`platform/linux`](https://github.com/o3de/o3de/labels/platform%2Flinux), [`arch/arm64`](https://github.com/o3de/tsc/blob/main/meetings/notes/tsc-meeting-20230314.md), [`sig/platform`](https://github.com/o3de/o3de/labels/sig%2Fplatform), and initially [`needs-triage`](https://github.com/o3de/o3de/labels/needs-triage).
+Labels will include [`kind/bug`](https://github.com/o3de/o3de/labels/kind%2Fbug), [`feature/networking`](https://github.com/o3de/o3de/labels/feature%2Fnetworking), [`platform/linux`](https://github.com/o3de/o3de/labels/platform%2Flinux), [`arch/arm64`](https://github.com/o3de/o3de/labels/arch%2Farm64), [`sig/platform`](https://github.com/o3de/o3de/labels/sig%2Fplatform), and initially [`needs-triage`](https://github.com/o3de/o3de/labels/needs-triage).
 
 ### **3.0 Test Schedule and Entry Criteria:**
 
