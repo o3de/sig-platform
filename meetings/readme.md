@@ -33,3 +33,54 @@ See [O3DE Resources](https://o3de.github.io/o3de/foundation) for additional info
 # Licensing
 
 The O3DE/foundation repository and all contributions under this repository herein are licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Please note that, by contributing to this repository, whether via commit, pull request, issue, comment, or in any other fashion, **you are explicitly agreeing that all of your contributions will fall under the same permissive license.**
+
+#Meeting items
+1. [Sig-Platform repo](https://github.com/o3de/sig-platform)
+    
+    General Discussion
+    
+    [Issues](https://github.com/o3de/sig-platform/issues)
+    
+    [Pull Requests](https://github.com/o3de/sig-platform/pulls)
+    
+    [Roadmap](https://github.com/orgs/o3de/projects/20)
+
+2. [o3de/o3de repo](https://github.com/o3de/o3de)
+    
+    [Issues](https://github.com/o3de/o3de/issues)
+    
+      is:issue is:open label:needs-triage label:sig/platform 
+    
+      is:issue is:open -label:needs-triage -label:triage/accepted -label:triage/needs-information -label:triage/deferred label:sig/platform  
+    
+      is:issue is:open -label:sig/graphics-audio -label:sig/content -label:sig/core -label:sig/ui-ux -label:sig/build -label:sig/network -label:sig/simulation -label:sig/testing  -label:sig/release -label:sig/platform -label:sig/docs-community -label:needs-sig
+    
+    [Pull Requests](https://github.com/o3de/o3de/pulls)
+    
+      is:pr is:open team-review-requested:o3de/sig-platform
+    
+      is:pr is:open team-review-requested:o3de/sig-platform-reviewers
+    
+      is:pr is:open team-review-requested:o3de/sig-platform-maintainers
+
+3. [o3de/o3de-extras repo](https://github.com/o3de/o3de-extras)
+    
+    [Issues](https://github.com/o3de/o3de-extras/issues)
+    
+      is:issue is:open label:needs-triage label:sig/platform 
+      
+      is:issue is:open -label:needs-triage -label:triage/accepted -label:triage/needs-information -label:triage/deferred label:sig/platform  
+      
+      is:issue is:open -label:sig/graphics-audio -label:sig/content -label:sig/core -label:sig/ui-ux -label:sig/build -label:sig/network -label:sig/simulation -label:sig/testing  -label:sig/release -label:sig/platform -label:sig/docs-community -label:needs-sig
+    
+    [Pull Requests](https://github.com/o3de-extras/pulls)
+    
+      is:pr is:open team-review-requested:o3de/sig-platform
+      
+      is:pr is:open team-review-requested:o3de/sig-platform-reviewers
+      
+      is:pr is:open team-review-requested:o3de/sig-platform-maintainers
+
+
+
+ 
