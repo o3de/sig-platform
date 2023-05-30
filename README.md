@@ -11,6 +11,7 @@ Special Interest Group for Platform (SIG Platform)
 Description of the SIG Platform:
 
 "Platform" is the convergence of hardware and operating system. The Platform SIG (Special Interest Group for Platform) is a collection of individuals who are invested in the development and continuous improvement of O3DE related to it's ability to run on different hardware and operating systems. Anyone who cares about any aspect of O3DE regarding which platforms it supports is welcome to join.
+
 What SIG Platform Does:
 
     Design and maintain the PAL (Platform Abstraction Layer)
