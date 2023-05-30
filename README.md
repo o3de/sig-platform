@@ -27,9 +27,7 @@ What SIG Platform Does:
 How to Engage with SIG Platform
 
     Contact us on Discord
-    Join one of our weekly meetings on Thursday
-        Issue Triage (weekly)
-            Tuesdays at 9:00 PST in the sig-platform group voice channel
+    Join one of our weekly meetings on Tuesdays at 9:00 PST in the sig-platform group voice channel
     Subscribe to our mailing list
 
 How to Contribute to SIG Platform
