@@ -16,16 +16,6 @@ You can find a link to the proposed agenda for the next call in the table below.
 
 Please feel free to propose any of your topics, thoughts, or areas you feel are important to discuss.
 
-# Previous Meetings
-
-Below is a list of all prior completed meetings and related resources.
-
-## Documentation Special Interest Group
-
-| No   | Date       | Time | Agenda  | Media | Notes | Resources |
-| ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0001 | 2021-00-00 | 0000 UTC | n/a | n/a | Link | Link |
-
 # General Resources
 
 See [O3DE Resources](https://o3de.github.io/o3de/foundation) for additional information related to any SIG in O3DE.
