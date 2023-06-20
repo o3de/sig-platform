@@ -35,7 +35,9 @@ The O3DE/foundation repository and all contributions under this repository herei
     
     [Roadmap](https://github.com/orgs/o3de/projects/20)
 
-2. [o3de/o3de repo](https://github.com/o3de/o3de)
+    [Feature Grid Update](https://o3de.github.io/community/features/form.html)
+
+3. [o3de/o3de repo](https://github.com/o3de/o3de)
     
     [Issues](https://github.com/o3de/o3de/issues)
     
@@ -53,7 +55,7 @@ The O3DE/foundation repository and all contributions under this repository herei
     
       is:pr is:open team-review-requested:o3de/sig-platform-maintainers
 
-3. [o3de/o3de-extras repo](https://github.com/o3de/o3de-extras)
+4. [o3de/o3de-extras repo](https://github.com/o3de/o3de-extras)
     
     [Issues](https://github.com/o3de/o3de-extras/issues)
     
