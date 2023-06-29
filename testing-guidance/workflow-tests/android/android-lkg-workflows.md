@@ -58,6 +58,21 @@ Testing in this area should focus on the different ways O3DE can be built and de
     }
 }
 ````
+* Create `<project-path>/Registry/material_pipelines.setreg` file to add the LowEndPipeline material pipeline:
+````
+{
+    "O3DE": {
+        "Atom": {
+            "RPI": {
+                "MaterialPipelineFiles": [
+                    "@gemroot:Atom_Feature_Common@/Assets/Materials/Pipelines/MainPipeline/MainPipeline.materialpipeline",
+                    "@gemroot:Atom_Feature_Common@/Assets/Materials/Pipelines/LowEndPipeline/LowEndPipeline.materialpipeline"
+                ]
+            }
+        }
+    }
+}
+````
 * Run Asset Processor and wait until all assets have been processed.
 
 **Editor Platforms:**
