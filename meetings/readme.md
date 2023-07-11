@@ -65,7 +65,7 @@ The O3DE/foundation repository and all contributions under this repository herei
       
       is:issue is:open -label:sig/graphics-audio -label:sig/content -label:sig/core -label:sig/ui-ux -label:sig/build -label:sig/network -label:sig/simulation -label:sig/testing  -label:sig/release -label:sig/platform -label:sig/docs-community -label:needs-sig
     
-    [Pull Requests](https://github.com/o3de-extras/pulls)
+    [Pull Requests](https://github.com/o3de/o3de-extras/pulls)
     
       is:pr is:open team-review-requested:o3de/sig-platform
       
