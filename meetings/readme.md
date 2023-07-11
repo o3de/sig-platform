@@ -25,53 +25,24 @@ See [O3DE Resources](https://o3de.github.io/o3de/foundation) for additional info
 The O3DE/foundation repository and all contributions under this repository herein are licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Please note that, by contributing to this repository, whether via commit, pull request, issue, comment, or in any other fashion, **you are explicitly agreeing that all of your contributions will fall under the same permissive license.**
 
 ## Meeting items
-1. [Sig-Platform repo](https://github.com/o3de/sig-platform)
+1. [o3de/sig-platform: General Discussion](https://github.com/o3de/sig-platform)
+2. [o3de/sig-platform: Issues](https://github.com/o3de/sig-platform/issues)
+3. [o3de/sig-platform: Pull Requests](https://github.com/o3de/sig-platform/pulls)
+4. [o3de/sig-platform: Roadmap](https://github.com/orgs/o3de/projects/20)
+5. [o3de/sig-platform: Feature Grid](https://o3de.github.io/community/features/form.html)
+6. [o3de/o3de Issues: Narrow Filter](https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+label%3Asig%2Fplatform)
+7. [o3de/o3de-extras Issues: Narrow Filter](https://github.com/o3de/o3de-extras/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+label%3Asig%2Fplatform)
+8. [o3de/o3de Issues: Wider Filter](https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+-label%3Aneeds-triage+-label%3Atriage%2Faccepted+-label%3Atriage%2Fneeds-information+-label%3Atriage%2Fdeferred+label%3Asig%2Fplatform)
+9. [o3de/o3de-extras Issues: Wider Filter](https://github.com/o3de/o3de-extras/issues?q=is%3Aissue+is%3Aopen+-label%3Aneeds-triage+-label%3Atriage%2Faccepted+-label%3Atriage%2Fneeds-information+-label%3Atriage%2Fdeferred+label%3Asig%2Fplatform)
+10. [o3de/o3de Issues: Widest Filter](https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+-label%3Asig%2Fgraphics-audio+-label%3Asig%2Fcontent+-label%3Asig%2Fcore+-label%3Asig%2Fui-ux+-label%3Asig%2Fbuild+-label%3Asig%2Fnetwork+-label%3Asig%2Fsimulation+-label%3Asig%2Ftesting++-label%3Asig%2Frelease+-label%3Asig%2Fplatform+-label%3Asig%2Fdocs-community+-label%3Aneeds-sig)
+11. [o3de/o3de-extras Issues: Widest Filter](https://github.com/o3de/o3de-extras/issues?q=is%3Aissue+is%3Aopen+-label%3Asig%2Fgraphics-audio+-label%3Asig%2Fcontent+-label%3Asig%2Fcore+-label%3Asig%2Fui-ux+-label%3Asig%2Fbuild+-label%3Asig%2Fnetwork+-label%3Asig%2Fsimulation+-label%3Asig%2Ftesting++-label%3Asig%2Frelease+-label%3Asig%2Fplatform+-label%3Asig%2Fdocs-community+-label%3Aneeds-sig)
+12. [o3de/o3de Pull Requests: Sig Platform](https://github.com/o3de/o3de/pulls?q=is%3Apr+is%3Aopen+team-review-requested%3Ao3de%2Fsig-platform)
+13. [o3de/o3de-extras Pull Requests: Sig Platform](https://github.com/o3de/o3de-extras/pulls?q=is%3Apr+is%3Aopen+team-review-requested%3Ao3de%2Fsig-platform)
+14. [o3de/o3de Pull Requests: Sig Platform Reviewers](https://github.com/o3de/o3de/pulls?q=is%3Apr+is%3Aopen+team-review-requested%3Ao3de%2Fsig-platform-reviewers)
+15. [o3de/o3de-extras Pull Requests: Sig Platform Reviewers](https://github.com/o3de/o3de-extras/pulls?q=is%3Apr+is%3Aopen+team-review-requested%3Ao3de%2Fsig-platform-reviewers)    
+16. [o3de/o3de Pull Requests: Sig Platform Maintainers](https://github.com/o3de/o3de/pulls?q=is%3Apr+is%3Aopen+team-review-requested%3Ao3de%2Fsig-platform-maintainers)
+17. [o3de/o3de-extras Pull Requests: Sig Platform Maintainers](https://github.com/o3de/o3de-extras/pulls?q=is%3Apr+is%3Aopen+team-review-requested%3Ao3de%2Fsig-platform-maintainers)
     
-    General Discussion
-    
-    [Issues](https://github.com/o3de/sig-platform/issues)
-    
-    [Pull Requests](https://github.com/o3de/sig-platform/pulls)
-    
-    [Roadmap](https://github.com/orgs/o3de/projects/20)
-
-    [Feature Grid Update](https://o3de.github.io/community/features/form.html)
-
-3. [o3de/o3de repo](https://github.com/o3de/o3de)
-    
-    [Issues](https://github.com/o3de/o3de/issues)
-    
-      is:issue is:open label:needs-triage label:sig/platform 
-    
-      is:issue is:open -label:needs-triage -label:triage/accepted -label:triage/needs-information -label:triage/deferred label:sig/platform  
-    
-      is:issue is:open -label:sig/graphics-audio -label:sig/content -label:sig/core -label:sig/ui-ux -label:sig/build -label:sig/network -label:sig/simulation -label:sig/testing  -label:sig/release -label:sig/platform -label:sig/docs-community -label:needs-sig
-    
-    [Pull Requests](https://github.com/o3de/o3de/pulls)
-    
-      is:pr is:open team-review-requested:o3de/sig-platform
-    
-      is:pr is:open team-review-requested:o3de/sig-platform-reviewers
-    
-      is:pr is:open team-review-requested:o3de/sig-platform-maintainers
-
-4. [o3de/o3de-extras repo](https://github.com/o3de/o3de-extras)
-    
-    [Issues](https://github.com/o3de/o3de-extras/issues)
-    
-      is:issue is:open label:needs-triage label:sig/platform 
-      
-      is:issue is:open -label:needs-triage -label:triage/accepted -label:triage/needs-information -label:triage/deferred label:sig/platform  
-      
-      is:issue is:open -label:sig/graphics-audio -label:sig/content -label:sig/core -label:sig/ui-ux -label:sig/build -label:sig/network -label:sig/simulation -label:sig/testing  -label:sig/release -label:sig/platform -label:sig/docs-community -label:needs-sig
-    
-    [Pull Requests](https://github.com/o3de/o3de-extras/pulls)
-    
-      is:pr is:open team-review-requested:o3de/sig-platform
-      
-      is:pr is:open team-review-requested:o3de/sig-platform-reviewers
-      
-      is:pr is:open team-review-requested:o3de/sig-platform-maintainers
 
 
 
