@@ -4,6 +4,8 @@ Meeting notes from the [O3DE Meetings](https://o3de.github.io/sig-platform/meeti
 
 The [full table of previous meetings](https://o3de.github.io/sig-platform/meetings?id=previous-meetings) is available here.
 
+We meet weekly on discord [weekly](https://lists.o3de.org/g/o3de-calendar/viewevent?repeatid=53332&eventid=2049995&calstart=2023-09-21).
+
 # General Resources
 
 Special Interest Group for Platform (SIG Platform)
@@ -49,8 +51,6 @@ Now that you know a little about us here are a few links to get you started.
         We use Discord. Join the conversation here on the SIG-Platform Channel.
     Can I subscribe to notifications from SIG Platform? What will I get notified about?
         Yes! You can also watch the SIG Platform Github Repository for announcements, issues, and discussions. You can also join our email mailing list for less frequent announcements. If you prefer Discord, you can chat to us there too for any immediate questions.
-    How do I see when you will meet?
-        We meet weekly on Tuesdays in discord at 9:00am PST.
     Can we meet outside of meetings?
         Of course, please begin with Discord and/or add yourself to a meeting agenda to get some face-time with the group.
     How does SIG Platform handle issue reports and what can I do if I need help?
