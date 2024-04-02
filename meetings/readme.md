@@ -40,7 +40,7 @@ The O3DE/foundation repository and all contributions under this repository herei
 13. [o3de/o3de-extras Pull Requests: Sig Platform Reviewers](https://github.com/o3de/o3de-extras/pulls?q=is%3Apr+is%3Aopen+team-review-requested%3Ao3de%2Fsig-platform-reviewers)    
 14. [o3de/o3de Pull Requests: Sig Platform Maintainers](https://github.com/o3de/o3de/pulls?q=is%3Apr+is%3Aopen+team-review-requested%3Ao3de%2Fsig-platform-maintainers)
 15. [o3de/o3de-extras Pull Requests: Sig Platform Maintainers](https://github.com/o3de/o3de-extras/pulls?q=is%3Apr+is%3Aopen+team-review-requested%3Ao3de%2Fsig-platform-maintainers)
-16. [o3de/sig-platform: new items not in a project for roadmap](https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Atriage%2Faccepted+label%3Asig%2Fplatform+no%3Aproject)
+16. [o3de/sig-platform: New issues not in a project for roadmap](https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Atriage%2Faccepted+label%3Asig%2Fplatform+no%3Aproject)
 17. [o3de/sig-platform: Roadmap](https://github.com/orgs/o3de/projects/20)
     
 
