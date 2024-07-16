@@ -26,8 +26,8 @@ The O3DE/foundation repository and all contributions under this repository herei
 
 ## Meeting items
 1. [o3de/sig-platform: General Discussion](https://github.com/o3de/sig-platform)
-2. [o3de/o3de: Pull Requests Cleanup](https://github.com/o3de/o3de/pulls?q=is%3Apr+is%3Aopen+-label%3Asig%2Fcore+-label%3Asig%2Fui-ux+-label%3Asig%2Fbuild+-label%3Asig%2Fnetwork+-label%3Asig%2Fsimulation+-label%3Asig%2Ftesting++-label%3Asig%2Frelease+-label%3Asig%2Fplatform+-label%3Asig%2Fdocs-community+-label%3Asig%2Fsecurity+-label%3Asig%2Fcontent+-label%3Asig%2Fgraphics-audio)
-3. [o3de/o3de-extras Pull Request Cleanup](https://github.com/o3de/o3de-extras/pulls?q=is%3Apr+is%3Aopen+-label%3Asig%2Fcore+-label%3Asig%2Fui-ux+-label%3Asig%2Fbuild+-label%3Asig%2Fnetwork+-label%3Asig%2Fsimulation+-label%3Asig%2Ftesting++-label%3Asig%2Frelease+-label%3Asig%2Fplatform+-label%3Asig%2Fdocs-community+-label%3Asig%2Fsecurity+-label%3Asig%2Fcontent+-label%3Asig%2Fgraphics-audio+)
+2. [o3de/o3de: Pull Requests Cleanup](https://github.com/o3de/o3de/pulls?q=is%3Apr+is%3Aopen+-label%3Asig%2Fcore+-label%3Asig%2Fui-ux+-label%3Asig%2Fbuild+-label%3Asig%2Fnetwork+-label%3Asig%2Fsimulation+-label%3Asig%2Ftesting++-label%3Asig%2Frelease+-label%3Asig%2Fplatform+-label%3Asig%2Fdocs-community+-label%3Asig%2Fsecurity+-label%3Asig%2Fcontent+-label%3Asig%2Fgraphics-audio+-label%3Aneeds-sig)
+3. [o3de/o3de-extras Pull Request Cleanup](https://github.com/o3de/o3de-extras/pulls?q=is%3Apr+is%3Aopen+-label%3Asig%2Fcore+-label%3Asig%2Fui-ux+-label%3Asig%2Fbuild+-label%3Asig%2Fnetwork+-label%3Asig%2Fsimulation+-label%3Asig%2Ftesting++-label%3Asig%2Frelease+-label%3Asig%2Fplatform+-label%3Asig%2Fdocs-community+-label%3Asig%2Fsecurity+-label%3Asig%2Fcontent+-label%3Asig%2Fgraphics-audio+-label%3Aneeds-sig)
 4. [o3de/sig-platform: Issues](https://github.com/o3de/sig-platform/issues)
 5. [o3de/sig-platform: Pull Requests](https://github.com/o3de/sig-platform/pulls)
 6. [o3de/o3de Issues: Narrow Filter](https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+label%3Asig%2Fplatform)
